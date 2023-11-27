@@ -1,0 +1,13 @@
+.text{
+    color: black;
+    background-color:rgb(110, 226, 43);
+}
+.text{
+    color: brown;
+    background-color: rgb(201, 206, 206);
+    font-style: oblique;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+
+}

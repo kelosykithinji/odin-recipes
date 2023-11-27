@@ -1,0 +1,15 @@
+#text{
+    color:blue;
+    background-color: aquamarine;
+    text-align: center;
+}
+.text{
+    color:brown;
+    background-color: bisque;
+}
+.text-one{
+    color:blue;
+    background-color: aqua;
+    font-size: 30px;
+    text-align: center;
+}
